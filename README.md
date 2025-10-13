@@ -28,3 +28,9 @@
 <a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 5주차 필기 내용 </a>  
 -요약  
   오프라인 수업, 팀 지정, 깃 실습
+
+## 6주차
+### 13~15차시  
+
+## 7주차
+### 16~19차시
