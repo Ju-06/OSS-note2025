@@ -43,7 +43,7 @@
 
 ## 8주차
 ### 19~21차시
-<a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 6주차 필기 내용 </a>  
+<a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 7주차 필기 내용 </a>  
 
 ## 9주차
 ### 22~24차시
