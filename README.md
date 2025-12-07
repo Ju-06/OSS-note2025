@@ -9,7 +9,7 @@
 
 ## 2주차
 ### 1~3차시  
-<a href="https://www.notion.so/2-26972c82600e8050a9c5e0503e8dfb42?source=copy_link"> [Notion] 2주차 필기 내용 </a>  
+<a href="https://www.notion.so/2-26972c82600e8050a9c5e0503e8dfb42"> [Notion] 2주차 필기 내용 </a>  
 -요약  
   기본 용어 정리 (커밋, 저장소, PUSH, PULL, CLONE)
 
