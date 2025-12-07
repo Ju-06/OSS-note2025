@@ -31,22 +31,20 @@
 
 ## 6주차
 ### 13~15차시  
-<a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 6주차 필기 내용 </a>  
+<a href="https://www.notion.so/26972c82600e805293cfdd17db830162?p=28c72c82600e8051adb0e9e5a79e18ce&pm=s"> [Notion] 6주차 필기 내용 </a>  
 
 ## 7주차
 ### 16~18차시
-<a href=""> [Notion] 7주차 필기 내용 </a>  
-
-## 중간고사
-### 중간 강의 1 & 2 
-<a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 중간 영상 1 & 2 필기 </a>  
+<a href="https://www.notion.so/26972c82600e805293cfdd17db830162?p=28c72c82600e80349144cb773c9e53b0&pm=s"> [Notion] 7주차 필기 내용 </a>  
 
 ## 8주차
 ### 19~21차시
-<a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c?source=copy_link"> [Notion] 7주차 필기 내용 </a>  
+<a href="https://www.notion.so/26972c82600e805293cfdd17db830162?p=2c272c82600e807ea008cf9ea0699dac&pm=s"> [Notion] 8주차 필기 내용 </a>  
 
-## 9주차
+## 9주차 (중간고사)
 ### 22~24차시
+
 
 ## 10주차
 ### 25~27차시
+<a href="https://www.notion.so/26972c82600e805293cfdd17db830162?p=2c272c82600e80479fc8d592e2acf92d&pm=s"> [Notion] 8주차 필기 내용 </a> 
