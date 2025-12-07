@@ -29,8 +29,8 @@
 
 <hr>
 
-## 주차
-### 10~12차시  
+## 5주차 (대면수업)
+### 오프라인 수업 필기
 <a href="https://www.notion.so/5-27d72c82600e8037b7adfc0635b9279c"> [Notion] 5주차 필기 내용 </a>  
 -요약  
   오프라인 수업, 팀 지정, 깃 실습
@@ -38,19 +38,19 @@
 <hr>
 
 ## 6주차
-### 13~15차시  
+### 10~12차시  
 <a href="https://www.notion.so/6-28c72c82600e8051adb0e9e5a79e18ce"> [Notion] 6주차 필기 내용 </a>  
 
 <hr>
 
 ## 7주차
-### 16~18차시
+### 13~15차시
 <a href="https://www.notion.so/7-28c72c82600e80349144cb773c9e53b0"> [Notion] 7주차 필기 내용 </a>  
 
 <hr>
 
 ## 8주차
-### 19~21차시
+### 16~28차시
 <a href="https://www.notion.so/8-2c272c82600e807ea008cf9ea0699dac"> [Notion] 8주차 필기 내용 </a>  
 
 <hr>
@@ -61,5 +61,30 @@
 <hr>
 
 ## 10주차
-### 25~27차시
+### 19~21차시
 <a href="https://www.notion.so/10-2c272c82600e80479fc8d592e2acf92d"> [Notion] 10주차 필기 내용 </a> 
+
+<hr>
+
+## 11주차
+### 22~24차시
+<a href=""> [Notion] 11주차 필기 내용 </a> 
+
+<hr>
+
+## 12주차
+### 25~27차시
+<a href=""> [Notion] 12주차 필기 내용 </a> 
+
+<hr>
+
+## 13주차
+### 28~30차시
+<a href=""> [Notion] 13주차 필기 내용 </a> 
+
+<hr>
+
+## 14주차 (대면수업)
+### 오프라인 수업 필기
+<a href="https://www.notion.so/14-2bc72c82600e80e2aa35d126cb045887"> [Notion] 14주차 필기 내용 </a> 
+
